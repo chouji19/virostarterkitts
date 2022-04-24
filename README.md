@@ -9,8 +9,9 @@ Set up the development environment for [react native](https://reactnative.dev/do
 > ⚠️ NOTE: The android emulators are not supported by Viro. See [this](https://viro-community.readme.io/docs/frequently-asked-questions#does-this-work-with-ios-simulators-or-android-emulators).
 
 ## Installation
+for JS without TypeScript visit [Starter Kit JS Viro Community](https://github.com/ViroCommunity/starter-kit)
 
-1. `git clone https://github.com/ViroCommunity/starter-kit.git`
+1. `git clone https://github.com/chouji19/virostarterkitts.git`
 2. `cd starter-kit`
 3. `npm install`
 4. `npx pod-install` (iOS)
